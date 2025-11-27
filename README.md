@@ -27,3 +27,4 @@ Must have
 - [ ] Les contenus doivent être classés par catégorie (matière, niveau, type de ressource).
 - [ ] Les quiz doivent fournir un retour immédiat et des explications pour chaque question.
       
+![Uploading Enregistrement 2025-11-26 191504.gif…]()
