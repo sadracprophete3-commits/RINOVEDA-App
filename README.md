@@ -27,4 +27,3 @@ Must have
 - [ ] Les contenus doivent être classés par catégorie (matière, niveau, type de ressource).
 - [ ] Les quiz doivent fournir un retour immédiat et des explications pour chaque question.
       
-![Uploading Gif RENOVEDA.gif…]()
